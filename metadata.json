@@ -1,0 +1,6 @@
+{
+  "name": "My Food & Budget Tracker",
+  "description": "Mobile + PC personal food, protein, meal and monthly budget tracking web app with ₹4,500 budget and 90g protein goal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
